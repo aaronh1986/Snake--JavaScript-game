@@ -7,14 +7,7 @@ body {
     align-items: center;
 }
 
- /* canvas{
-     box-shadow: black 20px 10px 50x;
-}  */
-
- /* canvas{
-    box-shadow: black 20px 10px 50px;
-}. */
-
 canvas {
     box-shadow: black 20px 10px 50px;
-}
+ }
+
